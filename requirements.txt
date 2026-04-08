@@ -1,7 +1,7 @@
 pandas
 numpy
 seaborn
-opencv
+opencv-python
 numpy
 tensorflow
 matplotlib
