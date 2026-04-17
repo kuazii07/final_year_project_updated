@@ -6,4 +6,4 @@ numpy
 tensorflow
 matplotlib
 
--e .
+#-e .
